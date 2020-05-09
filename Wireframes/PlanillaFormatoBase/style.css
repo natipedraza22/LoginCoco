@@ -97,6 +97,7 @@ text-align: center;
 
 .login{
     font-size: 30px;
+    margin-right: 40px;
    
 }
 
@@ -151,6 +152,7 @@ text-align: center;
     }
     .registro{
         font-size: 30px;
+        margin-right: 35px;
        
     }
 
@@ -177,6 +179,10 @@ text-align: center;
     body{
         font-family: "Montserrat";
         
+    }
+
+    .cuenta{
+        font-size: 60%;
     }
 /*
 aca termina el section
