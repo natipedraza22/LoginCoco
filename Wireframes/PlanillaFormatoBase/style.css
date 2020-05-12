@@ -78,7 +78,7 @@ section{
     box-sizing: border-box;
     position: relative;
     top:80px;
-    height: 600px;
+    height: 550px;
     width: 100%;
     float: left;
     text-align: center;
@@ -100,7 +100,7 @@ text-align: center;
 .login{
     font-size: 35px;
    position: relative;
-   top:50px;
+   top:60px;
    right: 10px;
    left:6px;
    
@@ -134,12 +134,14 @@ text-align: center;
     }
     
     .boton{
-        width: 15%;
-  padding: 10px 18px;
-  font-size: 75%;
+        width: 23%;
+       
+        padding: 12px 13px;
+        font-size: 80%;
   position: relative;
-  top:40px;
+  top:25px;
   left:10px;
+  bottom: 25px;
  
     }
 
@@ -147,7 +149,7 @@ text-align: center;
     .parrafo{
         font-size: 20px;
         position: relative;
-        top:50px;
+        top:65px;
         left:7px;
         
     }
@@ -167,8 +169,9 @@ color: black;
         font-size: 70%;
         color: black;
         position: relative;
-        top:30px;
+        
         left:10px;
+        bottom: 10px ;
     }
 /*
 aca termina el section
